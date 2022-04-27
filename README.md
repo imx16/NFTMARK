@@ -42,7 +42,7 @@ Our NFT marketplace utilizes a lot of amazing technological innovations to provi
 
 ## **Future Roadmap**
 
-- We started implementing NFT renting using SuperFluid contracts. Still, due to lack of time, we were unable to add it to our final deployment. [Here](https://github.com/shrey27tri01/StreamRent) is the code for the same. Hence, we plan to include this feature in future versions.
+- We started implementing NFT renting using SuperFluid contracts. Still, due to lack of time, we were unable to add it to our final deployment. is the code for the same. Hence, we plan to include this feature in future versions.
 - Gas Relays to create gasless creation and for other transactions ( meta transaction ).
 - Real-time data from contract events to give a better user experience and interface interaction.
 
